@@ -94,5 +94,3 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 **Kingsland Azaka**
 Python programmmer| Data analyst | Builder | Problem-solver
-
-Just say the word.
